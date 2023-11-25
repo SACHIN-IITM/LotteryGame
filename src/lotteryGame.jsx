@@ -29,6 +29,11 @@ export default function LotteryGame({n=3, winCondition}) {
             <br/>
             <br/>
             <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
             <h3><b>&amp;Developed By Sachin </b></h3>
         </div>
     );
