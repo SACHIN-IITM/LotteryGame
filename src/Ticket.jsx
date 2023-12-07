@@ -1,5 +1,5 @@
 import TicketNum from "./TicketNum";
-import "./Ticket.css";
+import "../public/Ticket.css";
 
 export default function Ticket({ticket}) {
     return(
