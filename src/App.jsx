@@ -1,4 +1,4 @@
-import './App.css';
+import '../public/App.css';
 import LotteryGame from './lotteryGame';
 import { sum } from './helper';
 
